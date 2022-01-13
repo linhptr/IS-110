@@ -12,7 +12,7 @@
 - Kan kalle metoder med og uten parametere og returverdi
 
 **Læringsmålet 2**
-- Åpne, lagre og lukke prosjekter
+- Åpne, lagre og lukke prosjekter i BlueJ
 
 - Lage objekter
 
