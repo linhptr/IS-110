@@ -1,9 +1,9 @@
-*DATO: 14.JAN.2022
-*EMNET: IS-110 - OBJEKTORIENTERT PROGRAMMERING.
-*MODUL 1: CLASS, OBJECT, METHOD, PARAMETER OG DATA TYPE.
+- DATO: 14.JAN.2022
+- EMNET: IS-110 - OBJEKTORIENTERT PROGRAMMERING.
+- MODUL 1: CLASS, OBJECT, METHOD, PARAMETER OG DATA TYPE.
 
 **Læringsmålet 1**
-*Kjenner igjen en klassedefinisjon, og kunne finne navnet på klassen
+- Kjenner igjen en klassedefinisjon, og kunne finne navnet på klassen
 
 - Kjenner til forskjellige typer data
 
