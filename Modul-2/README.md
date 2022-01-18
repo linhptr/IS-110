@@ -1,3 +1,6 @@
+- Date: 18.01.2022
+- EMNET: IS-110 - OBJEKTORIENTERT PROGRAMMERING.
+- MODULE 2: FIELDS, CONSTRUCTORS, PARAMETERS, METHODS (ACCESSOR & MUTATOR), CONDITIONAL STATEMENT.
 ------------------------------------------------------------------------
 Læringsmål 2
 ------------------------------------------------------------------------
