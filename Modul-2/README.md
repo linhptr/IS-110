@@ -1,12 +1,8 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+Læringsmål 2
 ------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+- Can understand what is "Class" and what kind of fields and Data types Class has.
+- Can understand what sort of methods class has and which data types are used.
+- Can explain the difference of methods: Contructor, Set, Get and how they are used.
+- Can read method declaration and describe method signature (name, type of all parameters and return type).
+- Can use BlueJ to write a simple Class which contains fiels, methods and if statement.
